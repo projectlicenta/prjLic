@@ -1,0 +1,2 @@
+# prjLic
+Educational purpose only
